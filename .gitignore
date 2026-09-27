@@ -1,0 +1,25 @@
+# ===== Keil MDK 工程用户配置与编译产物（不入库）=====
+*.uvguix.*
+*.uvoptx
+DebugConfig/
+Listings/
+Objects/
+*.log
+*.dep
+*.bak
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.map
+*.lst
+*.sct
+
+# ===== 本地备份（含厂家原始源码，不建议公开）=====
+_注释前源码备份/
+
+# ===== 系统文件 =====
+Thumbs.db
+Desktop.ini
